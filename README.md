@@ -7,4 +7,6 @@ Every 100 characters send logs on email, you can change this by replacing condit
 
 If you want to change directory for file, do it in //Change directory
 
+## Install FAQ
+
 To compile this in Windows service, watch YouTube tutorial “https://www.youtube.com/watch?v=y64L-3HKuP0&ab_channel=IAmTimCorey”
