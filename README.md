@@ -6,9 +6,8 @@ Written using “.net core5”. Very simple to use, just add your email's and SM
 Every 100 characters send logs on email, you can change this by replacing condition on last “if” operator (Worker.cs)
 
 If you want to change directory for file, do it in 
-` protected override async Task ExecuteAsync(CancellationToken StoppingToken)
-        {
-            var FileDirectory= Environment.GetFolderPath(Environment.SpecialFolder.Desktop); // File directory`
+
+`var fileDirectory= Environment.GetFolderPath(Environment.SpecialFolder.Desktop); // File directory`
 
 ## Install FAQ
 
