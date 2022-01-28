@@ -15,4 +15,4 @@ If you want to change directory for file, do it in
 
 ## Install FAQ
 
-To compile this to Windows service, watch YouTube tutorial “https://www.youtube.com/watch?v=y64L-3HKuP0&ab_channel=IAmTimCorey”
+To compile this to Windows service, watch YouTube tutorial [CLICK](https://www.youtube.com/watch?v=y64L-3HKuP0&ab_channel=IAmTimCorey)
